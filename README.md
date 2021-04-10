@@ -1,4 +1,6 @@
-Hi, I’m Stanislas Motte,
+Hi, 
+
+I am Stanislas Motte
 
 I am a Finance and Computer Science Student at McGill University. 
 My interests that relate to dev are data analysis and cryptocurrencies. 
